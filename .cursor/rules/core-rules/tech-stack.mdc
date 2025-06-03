@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Technical Stack
+
+- Nextjs for the backend
+- Reactjs for the frontend
