@@ -39,7 +39,7 @@ const App: React.FC = () => {
     <Router>
       <div className="flex flex-col min-h-screen">
         <Header />
-        <main className="flex-grow">
+        <main className="flex-grow pt-24">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<LoginPage />} />
